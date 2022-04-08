@@ -38,95 +38,95 @@ It is included as adversity, in the combat to malicious applications, the fact o
 
 Antivirus | Deteccion (%) | False Negative (%) | Omission (%)
 --------- | ------------- | ------------------ | -------------
-BitDefender 99.52 0.48 0
-MicroWorld-eScan 99.33 0.67 0
-NANO-Antivirus 98.86 1.14 0
-GData 98.76 0.57 0.67
-ESET-NOD32 98.76 1.24 0
-McAfee 98.67 0.86 0.48
-Emsisoft 98.48 0.76 0.76
-Kaspersky 98.38 1.24 0.38
-AVG 98.1 0.86 1.05
-MAX 97.52 0.57 1.9
-Comodo 96.95 1.9 1.14
-Microsoft 96.67 3.05 0.29
-DrWeb 96.48 3.52 0
-Ad-Aware 96.38 3.43 0.19
-Webroot 96.38 0.57 3.05
-Fortinet 96.38 3.62 0
-VBA32 95.71 4.1 0.19
-Cylance 95.52 0.1 4.38
-Sophos 95.24 4.1 0.67
-Ikarus 95.24 0.76 4
-Panda 95.24 4.76 0
-Avast 94.57 3.9 1.52
-Avira 94.38 4.95 0.67
-K7GW 94.19 5.81 0
-Zillya 94.1 4.67 1.24
-K7AntiVirus 94.1 5.81 0.1
-Symantec 93.24 1.24 5.52
-VIPRE 93.14 1.33 5.52
-McAfee-GW-Edition 92.76 1.71 5.52
-Tencent 92 5.52 2.48
-ALYac 91.71 3.71 4.57
-Rising 90 8.95 1.05
-Yandex 89.62 8.67 1.71
-AhnLab-V3 88.29 11.71 0
-Jiangmin 87.9 7.33 4.76
-TrendMicro-HouseCall 87.24 11.9 0.86
-TrendMicro 86 12.48 1.52
-Alibaba 83.33 10.48 6.19
-CrowdStrike 82.48 15.24 2.29
-FireEye 82.38 0.29 17.33
-Qihoo-360 81.05 18.86 0.1
-Paloalto 78.38 19.81 1.81
-Lionic 77.62 21.14 1.24
-APEX 76.38 6.57 17.05
-ClamAV 75.71 23.14 1.14
-Arcabit 75.71 23.52 0.76
-Cybereason 75.24 0.19 24.57
-Cynet 74.76 4.76 20.48
-BitDefenderTheta 74.57 7.52 17.9
-Sangfor 74.38 5.24 20.38
-Antiy-AVL 74.29 22.29 3.43
-ViRobot 72.86 27.14 0
-Kingsoft 67.33 30 2.67
-ZoneAlarm 66.19 32 1.81
-SentinelOne 64.86 32.57 2.57
-Cyren 58.48 40.95 0.57
-F-Secure 54.57 44.67 0.76
-Elastic 52.57 22.86 24.57
-MaxSecure 47.14 31.71 21.14
-Malwarebytes 46.95 52.48 0.57
-eGambit 46.29 40.57 13.14
-TACHYON 41.9 51.71 6.38
-Bkav 39.52 58.29 2.19
-CAT-QuickHeal 35.33 64.19 0.48
-Invincea 22.1 6.86 71.05
-Endgame 19.71 2.48 77.81
-Gridinsoft 18.86 53.52 27.62
-Acronis 17.52 74.48 8
-F-Prot 15.14 9.52 75.33
-TheHacker 14.19 3.05 82.76
-SUPERAntiSpyware 13.62 86.38 0
-TotalDefense 12.76 52.76 34.48
-CMC 12.67 87.24 0.1
-Baidu 8.67 89.52 1.81
-Trapmine 7.62 8.48 83.9
-AVware 7.43 0.19 92.38
-nProtect 3.14 3.14 93.71
-Zoner 2.19 96.19 1.62
-Agnitum 1.33 0.1 98.57
-Baidu-International 1.05 0.48 98.48
-WhiteArmor 0.76 1.52 97.71
-Norman 0.76 0 99.24
-AntiVir 0.57 0 99.43
-Commtouch 0.48 0.1 99.43
-ByteHero 0.1 1.33 98.57
-CyrenCloud 0.1 0 99.9
-Avast-Mobile 0 19.71 80.29
-Trustlook 0 10 90
-Babable 0 11.43 88.57
+BitDefender | 99.52 | 0.48 | 0
+MicroWorld-eScan | 99.33 | 0.67 | 0
+NANO-Antivirus | 98.86 | 1.14 | 0
+GData | 98.76 | 0.57 | 0.67
+ESET-NOD32 | 98.76 | 1.24 | 0
+McAfee | 98.67 | 0.86 | 0.48
+Emsisoft | 98.48 | 0.76 | 0.76
+Kaspersky | 98.38 | 1.24 | 0.38
+AVG | 98.1 | 0.86 | 1.05
+MAX | 97.52 | 0.57 |1.9
+Comodo | 96.95 | 1.9 | 1.14
+Microsoft | 96.67 | 3.05 | 0.29
+DrWeb | 96.48 | 3.52 | 0
+Ad-Aware | 96.38 | 3.43 | 0.19
+Webroot | 96.38 | 0.57 | 3.05
+Fortinet | 96.38 | 3.62 | 0
+VBA32 | 95.71 | 4.1 | 0.19
+Cylance | 95.52 | 0.1 | 4.38
+Sophos | 95.24 | 4.1 | 0.67
+Ikarus | 95.24 | 0.76 | 4
+Panda | 95.24 | 4.76 | 0
+Avast | 94.57 | 3.9 | 1.52
+Avira | 94.38 | 4.95 | 0.67
+K7GW | 94.19 | 5.81 | 0
+Zillya | 94.1 | 4.67 | 1.24
+K7AntiVirus | 94.1 | 5.81 | 0.1
+Symantec | 93.24 | 1.24 | 5.52
+VIPRE | 93.14 | 1.33 | 5.52
+McAfee-GW-Edition | 92.76 | 1.71 | 5.52
+Tencent | 92 | 5.52 | 2.48
+ALYac | 91.71 | 3.71 | 4.57
+Rising | 90 | 8.95 | 1.05
+Yandex | 89.62 | 8.67 | 1.71
+AhnLab-V3 | 88.29 | 11.71 | 0
+Jiangmin | 87.9 | 7.33 | 4.76
+TrendMicro-HouseCall | 87.24 | 11.9 | 0.86
+TrendMicro | 86 | 12.48 | 1.52
+Alibaba | 83.33 | 10.48 | 6.19
+CrowdStrike | 82.48 | 15.24 | 2.29
+FireEye | 82.38 | 0.29 | 17.33
+Qihoo-360 | 81.05 | 18.86 | 0.1
+Paloalto | 78.38 | 19.81 | 1.81
+Lionic | 77.62 | 21.14 | 1.24
+APEX | 76.38 | 6.57 | 17.05
+ClamAV | 75.71 | 23.14 | 1.14
+Arcabit | 75.71 | 23.52 | 0.76
+Cybereason | 75.24 | 0.19 | 24.57
+Cynet | 74.76 | 4.76 | 20.48
+BitDefenderTheta | 74.57 | 7.52 | 17.9
+Sangfor | 74.38 | 5.24 | 20.38
+Antiy-AVL | 74.29 | 22.29 | 3.43
+ViRobot | 72.86 | 27.14 | 0
+Kingsoft | 67.33 | 30 | 2.67
+ZoneAlarm | 66.19 | 32 | 1.81
+SentinelOne | 64.86 | 32.57 | 2.57
+Cyren | 58.48 | 40.95 | 0.57
+F-Secure | 54.57 | 44.67 | 0.76
+Elastic | 52.57 | 22.86 | 24.57
+MaxSecure | 47.14 | 31.71 | 21.14
+Malwarebytes | 46.95 | 52.48 | 0.57
+eGambit | 46.29 | 40.57 | 13.14
+TACHYON | 41.9 | 51.71 | 6.38
+Bkav | 39.52 | 58.29 | 2.19
+CAT-QuickHeal | 35.33 | 64.19 | 0.48
+Invincea | 22.1 | 6.86 | 71.05
+Endgame | 19.71 | 2.48 | 77.81
+Gridinsoft | 18.86 | 53.52 | 27.62
+Acronis | 17.52 | 74.48 | 8
+F-Prot | 15.14 | 9.52 | 75.33
+TheHacker | 14.19 | 3.05 | 82.76
+SUPERAntiSpyware | 13.62 | 86.38 | 0
+TotalDefense | 12.76 | 52.76 | 34.48
+CMC | 12.67 | 87.24 | 0.1
+Baidu | 8.67 | 89.52 | 1.81
+Trapmine | 7.62 | 8.48 | 83.9
+AVware | 7.43 | 0.19 | 92.38
+nProtect | 3.14 | 3.14 | 93.71
+Zoner | 2.19 | 96.19 | 1.62
+Agnitum | 1.33 | 0.1 | 98.57
+Baidu-International | 1.05 | 0.48 | 98.48
+WhiteArmor | 0.76 | 1.52 | 97.71
+Norman | 0.76 | 0 | 99.24
+AntiVir | 0.57 | 0 | 99.43
+Commtouch | 0.48 | 0.1 | 99.43
+ByteHero | 0.1 | 1.33 | 98.57
+CyrenCloud | 0.1 | 0 | 99.9
+Avast-Mobile | 0 | 19.71 | 80.29
+Trustlook | 0 | 10 | 90
+Babable | 0 | 11.43 | 88.57
 
 ###### Table 3 Miscellaneous classifications of commercial antiviruses:
 
