@@ -130,11 +130,78 @@ Babable | 0 | 11.43 | 88.57
 
 ###### Table 3 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
+Antivírus | VirusShare_001dd76872d80801692ff942308c64e6 | VirusShare_0c28ad34f90950bc784339ec9f50d288 | VirusShare_17f5a2e0997b59449ca2120b20b5b7ce
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
-
-
-
+Bkav | false negative | W32.Common.0D728E45 | W32.AIDetect.malware2 
+Lionic | Trojan.Win32.Agent.a!c | Trojan.Win32.Generic.4!c | Trojan.Win32.Small.a!c
+Elastic | malicious (high confidence) | false negative | malicious (high confidence)
+MicroWorld-eScan | Gen:Variant.Zusy.334368 | Gen:Variant.Zusy.329358 | Gen:Variant.Doris.8778
+FireEye | Generic.mg.001dd76872d80801 | Generic.mg.0c28ad34f90950bc | Generic.mg.17f5a2e0997b5944
+CAT-QuickHeal | false negative | false negative | Backdoor.Xifos.S14134
+McAfee | BackDoor-FALR!001DD76872D8 | RDN/Generic BackDoor.km | BackDoor-ZZW
+Cylance | Unsafe | Unsafe | Unsafe
+VIPRE | Trojan.Win32.Generic!BT | Trojan.Win32.Generic!BT | Trojan.Win32.Generic!BT
+Sangfor | Trojan.Win32.Save.a | Riskware.Win32.Agent.ky | Trojan.Win32.Save.a
+K7AntiVirus | Trojan ( 0055e3dd1 ) | Trojan ( 0008658c1 ) | Trojan-Downloader ( 0055e3da1 )
+Alibaba | TrojanDownloader:Win32/Sluegot.8acae48b | Backdoor:Win32/Stradatu.81d79399 | TrojanDownloader:Win32/Namsoth.332a073d
+K7GW | Trojan ( 0055e3dd1 ) | Trojan ( 0008658c1 ) | Trojan-Downloader ( 0055e3da1 )
+Cybereason | malicious.872d80 | malicious.4f9095 | malicious.0997b5
+Baidu | false negative | false negative | false negative
+Cyren | W32/Downloader-Web-based!Maximu | false negative | false negative
+Symantec | Trojan.Downbot | Backdoor.Trojan | Trojan.Downbot.D!gen1
+ESET-NOD32 | a variant of Win32/Agent.ONL | a variant of Win32/Agent.UAX | a variant of Win32/TrojanDownloader.Agent.QVC
+APEX | false negative | Malicious | Malicious
+Paloalto | generic.ml | generic.ml | generic.ml
+ClamAV | Win.Trojan.Agent-474236 | Win.Trojan.Agent-30701 | Win.Trojan.Agent-30719
+Kaspersky | Trojan-Downloader.Win32.Agent.stsm | HEUR:Trojan.Win32.Generic |Trojan-Downloader.Win32.Small.apyd
+BitDefender | Gen:Variant.Zusy.334368 | Gen:Variant.Zusy.329358 | Gen:Variant.Doris.8778
+NANO-Antivirus | Trojan.Win32.Agent.bozfev | Trojan.Win32.Crypted.cudizy | Trojan.Win32.Small.idumwi
+SUPERAntiSpyware | false negative | false negative | false negative
+Avast | Win32:Trojan-gen | Win32:Trojan-gen | Win32:Trojan-gen
+Rising | Trojan.Win32.Sluegot.a (CLASSIC) | Trojan.Generic@ML.88 (RDML:g4y6KR5/WClzDMyQH7d7Lw) | Trojan.Generic@ML.100 (RDML:qzekmDy2/Vvt5Xj5/WuRPg)
+Ad-Aware | Gen:Variant.Zusy.334368 | Gen:Variant.Zusy.329358 | Gen:Variant.Doris.8778
+Sophos | Mal/Generic-R + Mal/Behav-116 | Mal/Generic-R + Troj/Bckdr-RPD | Mal/Generic-R + Troj/Govdi-B
+Comodo | Malware@#rukve67f2a9m | Malware@#2vbrmaglmkq4e | TrojWare.Win32.Small.dy126@4owfj7
+F-Secure | false negative | false negative | false negative
+DrWeb | Trojan.DownLoad2.48107 | Trojan.DownLoader6.51223 | Trojan.DownLoad2.51103
+Zillya | Trojan.Agent.Win32.324915 | Backdoor.Hupigon.Win32.154025 | Downloader.Small.Win32.68519
+TrendMicro | BKDR_SLUEGOT.B | BKDR_KOOKIMON.A | TROJ_GOVDI.F
+McAfee-GW-Edition | BehavesLike.Win32.Generic.nh | RDN/Generic BackDoor.km | BehavesLike.Win32.Generic.lm
+CMC | false negative | false negative | false negative
+Emsisoft | Gen:Variant.Zusy.334368 (B) | Gen:Variant.Zusy.329358 (B) | Gen:Variant.Doris.8778 (B)
+SentinelOne | Static AI - Malicious PE | Static AI - Suspicious PE |Static AI - Malicious PE
+GData | Gen:Variant.Zusy.334368 | Gen:Variant.Zusy.329358 | Gen:Variant.Doris.8778
+Jiangmin | TrojanDownloader.Agent.dgbt | Trojan/Generic.ajzar | TrojanDownloader.Small.aidi
+Webroot | W32.Trojan.Gen | W32.Backdoor.Gen | W32.Malware.Downloader
+Avira | HEUR/AGEN.1109847 | HEUR/AGEN.1122860 | HEUR/AGEN.1112968
+MAX | malware (ai score=100) | malware (ai score=100) | malware (ai score=100)
+Antiy-AVL | Trojan/Generic.ASMalwS.53491 | Trojan/Generic.ASMalwS.5FEB8 | Trojan/Generic.ASMalwS.E3705
+Kingsoft | Win32.TrojDownloader.Agent.st.(kcloud) | Win32.Heur.KVM017.a.(kcloud) | Win32.TrojDownloader.Small.ap.(kcloud)
+Gridinsoft | Trojan.Win32.Downloader.sa | false negative | Trojan.Win32.Downloader.sa
+Arcabit | Trojan.Zusy.D51A20 | Trojan.Zusy.D5068E | 20210606
+ViRobot | Trojan.Win32.A.Downloader.32768.BJI | Trojan.Win32.S.Agent.151552.Z | Trojan.Win32.A.Downloader.13824.AT
+ZoneAlarm | false negative | false negative | false negative
+Microsoft | Trojan:Win32/Sluegot.D | Backdoor:Win32/Stradatu | TrojanDownloader:Win32/Namsoth.B
+Cynet | Malicious (score: 100) | Malicious (score: 100) | Malicious (score: 100)
+AhnLab-V3 | Downloader/Win32.RL_Agent.R356758 | Win-Trojan/Dalbot.151552.B | Downloader/Win32.Small.C65448
+Acronis | suspicious | false negative | false negative
+BitDefenderTheta | AI:Packer.D094FDC71E | Gen:NN.ZexaF.34722.jmW@a4YfKwp | AI:Packer.A9B23AC71F
+ALYac | Trojan.Downloader.Agent | Gen:Variant.Zusy.329358 | Trojan.Downloader.Small
+TACHYON | Trojan-Downloader/W32.Agent.32768.AJS | Backdoor/W32.Hupigon.151552.AF | false negative
+VBA32 | TrojanDownloader.Agent | suspected of Trojan.Downloader.gen | BScope.Trojan-Spy.Zbot
+Malwarebytes | Malware.AI.224237819 | false negative | false negative
+Zoner | false negative | false negative | false negative
+TrendMicro-HouseCall | BKDR_SLUEGOT.B | BKDR_KOOKIMON.A | TROJ_GOVDI.F
+Tencent | Malware.Win32.Gencirc.114cb474 |  Win32.Trojan.Kookimon.Fie | Malware.Win32.Gencirc.114c244b
+Yandex | Trojan.GenAsa!86Km1zI0Fi4 | Trojan.GenAsa!TtEa1l76U5U | Trojan.GenAsa!YlWTxhvo/Z0
+Ikarus | Trojan-Dropper.Agent | Backdoor.Win32.Dalbot | Trojan.Win32.Spy
+eGambit | Unsafe.AI_Score_67% | false negative | false negative
+Fortinet | W32/Agent.STSM!tr.dldr | W32/DALBOT.U!tr.bdr | W32/Small.QVC!tr.dldr
+MaxSecure | Trojan.Malware.7141719.susgen | Trojan.Malware.3779814.susgen | false negative
+AVG | Win32:Trojan-gen | Win32:Trojan-gen | Win32:Trojan-gen
+Panda | Generic Malware | Generic Malware | Generic Malware
+CrowdStrike | win/malicious_confidence_70% (W) | win/malicious_confidence_100% (W) | win/malicious_confidence_100% (W)
+Qihoo-360 | Win32/TrojanDownloader.Generic.HwcBzUQA | false negative | false negative
 ## Materials and Methods
 
 This paper proposes a database aiming at the classification of 32-bit benign and malware executables. There are  1,050 malicious executables, and 1,050 other benign executables. Therefore, our dataset is suitable for learning with artificial intelligence, since both classes of executables have the same amount.
