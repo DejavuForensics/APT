@@ -3,7 +3,7 @@ Retrieval for APT (Advanced Persistent Threat) Malware Analysis
 
 ## How to use our dataset in Python with ELM (Extreme Learning Machine)
 
-python [melm.py](https://github.com/DejavuForensics/mELM/melm.py) -tall [Antivirus_Dataset_PE32_APT.csv](https://github.com/DejavuForensics/APT/blob/main/Antivirus_Dataset_PE32_APT.csv) -kfold 10 -virusNorm -ty 1 -nh 500 -af fuzzy-dilation -v
+python [melm.py](https://github.com/DejavuForensics/mELM/melmParameters.py) -tall [Antivirus_Dataset_PE32_APT.csv](https://github.com/DejavuForensics/APT/blob/main/Antivirus_Dataset_PE32_APT.csv) -kfold 10 -virusNorm -ty 1 -nh 500 -af fuzzy-dilation -v
 
 ## Commercial Antivirus Limitation
 
